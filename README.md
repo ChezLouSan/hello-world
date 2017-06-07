@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+ChezLouSan here.  New to this. Looking forward to learning.
